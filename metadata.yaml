@@ -1,0 +1,29 @@
+_repo: '------_23817'
+_version: 0.1.0
+alternative_title: Yue Wei Cao Tang Bi Ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ji, Yun
+    alias: 紀昀
+    birthdate: 1724
+    deathdate: 1805
+    gutenberg_agent_id: '26049'
+    url: http://www.gutenberg.org/2009/agents/26049
+    wikipedia: http://zh.wikipedia.org/wiki/%E7%B4%80%E6%98%80
+description: ''
+gutenberg_issued: '2007-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23817'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Ghost stories, Chinese'
+title: 閱微草堂筆記
+url: http://www.gutenberg.org/ebooks/23817
